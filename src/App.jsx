@@ -8,6 +8,8 @@ import EventM from './conponant/EventM'
 import Speaker from './conponant/Speaker'
 import Footer from './conponant/Footer';
 import Pricing from './conponant/Pricing'
+import Vedio from './conponant/Vedio'
+import Faq from './conponant/Faq'
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
     <Speaker />
     <EventM />
     <Pricing />
+    <Vedio />
+    <Faq />
     <Footer />
 
    
