@@ -10,6 +10,8 @@ import Footer from './conponant/Footer';
 import Pricing from './conponant/Pricing'
 import Vedio from './conponant/Vedio'
 import Faq from './conponant/Faq'
+import Blog from './conponant/Blog'
+import Tastimonials from './conponant/Tastimonials'
 
 function App() {
   return (
@@ -25,6 +27,8 @@ function App() {
     <Pricing />
     <Vedio />
     <Faq />
+    <Tastimonials />
+    <Blog />
     <Footer />
 
    
